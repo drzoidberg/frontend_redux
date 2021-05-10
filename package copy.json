@@ -1,5 +1,5 @@
 {
-  "name": "inuba_prueba-tecnica_frontend",
+  "name": "testing-react-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,8 @@
     "axios": "^0.21.1",
     "lodash": "^4.17.21",
     "nes-react": "^1.0.2",
+    "nes.css": "^2.3.0",
+    "node-sass": "^5.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
@@ -26,12 +28,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -45,7 +41,8 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.26.0",
-    "eslint-plugin-react": "^7.23.2"
+    "eslint": "^7.25.0",
+    "eslint-plugin-react": "^7.23.2",
+    "prettier": "^2.2.1"
   }
 }

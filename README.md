@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# inuba_prueba-tecnica_frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+inuba_prueba-tecnica_frontend is the technical test
 
-## Available Scripts
+## 🧾 It uses
 
-In the project directory, you can run:
+- React v17
+- Redux v4
+- sass
+- axios for making api requests
+- lodash for some helper functions
+- nes-react (as a ui component library)
 
-### `yarn start`
+## 🌍 Other resources
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [https://trello.com/b/hyuhBJYQ/inubaprueba-tecnica](Trello panel)
+- [https://www.figma.com/file/DvI251mQJdwpyWGRWJgn3r/iNuba-frontend?node-id=0%3A1](-
+  Initial mockups)
+- [https://drive.google.com/file/d/1RmcFIKnk7A1h7taemuNugdHHGXqbEPi3/view?usp=sharing](Subsequent
+  mockups & diagrams)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🛠 Installation & 🚀 Usage
 
-### `yarn test`
+Use the node package manager [npm](https://npmjs.com/) to install
+inuba_prueba-tecnica_frontend.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```javascript
+// for the 🛠 installation
+cd ./inuba_prueba-tecnica_frontend
+npm i
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+// for 🚀 running the project
+npm start
+```
