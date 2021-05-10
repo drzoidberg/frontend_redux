@@ -1,0 +1,19 @@
+body {
+}
+
+.heading-primary {
+  @include responsive(tab-port) {
+  }
+
+  @include responsive(phone) {
+  }
+}
+
+.heading-tertiary {
+}
+
+.paragraph {
+  &:not(:last-child) {
+    margin-bottom: 3rem;
+  }
+}

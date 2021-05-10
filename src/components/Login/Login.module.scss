@@ -1,0 +1,45 @@
+.Login {
+  // color: red;
+}
+
+.container {
+  width: 90%;
+  // text-align: center;
+  margin: 3rem auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Logo {
+  width: 40rem;
+  height: 100%;
+}
+
+.form {
+  width: 90%;
+  margin-top: 4rem !important;
+  margin: 4rem auto !important;
+}
+
+.form-content {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-input {
+  width: 98.5%;
+}
+
+.button {
+  margin: 1.6rem 1rem 1.6rem 1.2rem;
+}
+
+.sprite {
+  transform: scale(70%) translateY(3rem) translateX(4rem);
+  margin-top: -7rem;
+  margin-bottom: 1rem;
+  margin: -7rem 0 1rem 0;
+}
